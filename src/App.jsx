@@ -29,7 +29,7 @@ const projects = [
     title: 'Microfrontends',
     githubUrl: 'https://github.com/MahmoudHossameldin/microfrontends-ecommerce',
     description:
-      'In this project, I designed a microfrontends architecture for a mini e-commerce store. I used React.js to implement this architecture',
+      'In this project, I designed a microfrontends architecture for a mini e-commerce store. I used React.js to implement this architecture.',
   },
   // Add more projects here
 ];
